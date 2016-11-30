@@ -1,3 +1,3 @@
 # Hello
 
-HAHAHAHAHAHAHAHAHAAHHAHAHAHAHAHAHAHHAHAHA
+practicing Github on ubuntu 14
